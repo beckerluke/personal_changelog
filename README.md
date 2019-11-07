@@ -15,4 +15,10 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) second lesson: Strings and Variables
 - Light Reading: Read up on and researched [Apache Web Server](https://httpd.apache.org/)
 - [LeetCode](https://leetcode.com/) Logic Problem: Two Sum
-- Projects: Added to filter feature in solo project and began componentizing landing page 
+- Projects: Added to filter feature in solo project and began componentizing landing page
+
+#### Wednesday, November 6th, 2019
+- Workout, Cardio
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) third and fourth lesson: Receiving Input and Multiple Strings
+- Reading: First chapter in [The Pattern on the Stone](https://www.amazon.com/Pattern-Stone-Computers-Science-Masters/dp/0465066933) by Danny Hillis 
+- Projects: Testing and debugging functionality of filter feature in solo project
