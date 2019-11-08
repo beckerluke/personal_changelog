@@ -22,3 +22,11 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) third and fourth lesson: Receiving Input and Multiple Strings
 - Reading: First chapter in [The Pattern on the Stone](https://www.amazon.com/Pattern-Stone-Computers-Science-Masters/dp/0465066933) by Danny Hillis 
 - Projects: Testing and debugging functionality of filter feature in solo project
+
+#### Thursday, November 7th, 2019
+- Workout, Weights (Push)
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) fifth and sixth lesson: Errors and Reviewing Our Feedback
+- Reading: Finished chapter 1 in [The Pattern on the Stone](https://www.amazon.com/Pattern-Stone-Computers-Science-Masters/dp/0465066933) by Danny Hillis 
+- Light Reading: Touch up on Material-UI and React concepts
+- Projects: Got functionality of filter feature and all components associated to work in solo project
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: The Supermarket Queue
