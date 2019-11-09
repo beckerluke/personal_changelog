@@ -30,3 +30,11 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Light Reading: Touch up on Material-UI and React concepts
 - Projects: Got functionality of filter feature and all components associated to work in solo project
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: The Supermarket Queue
+
+#### Friday, November 8th, 2019
+- Workout, Weights (Pull)
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) seventh and eighth lesson: Parsing Integers and Using String Equality
+- Reading: Started chapter 1 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
+- Light Reading: Read up on the different primitive data types in Java
+- Projects: Began timezone feature in solo project
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: The Feast of Many Beasts
