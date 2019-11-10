@@ -38,3 +38,11 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Light Reading: Read up on the different primitive data types in Java
 - Projects: Began timezone feature in solo project
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: The Feast of Many Beasts
+
+#### Saturday, November 9th, 2019
+- Workout, Cardio
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) ninth lesson: Parsing Integers and Using String Equality
+- Reading: Finished chapter 1 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
+- Light Reading: Read up on object-oriented programming concepts and higher-order functions
+- Projects: Working on timezone feature in solo project. Researched [Stack Overflow](https://stackoverflow.com/questions/10834665/how-can-i-handle-time-zones-in-my-webapp) for best way to implement
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Binary Addition
