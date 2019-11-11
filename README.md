@@ -51,5 +51,5 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) tenth lesson: Using Logical OR's
 - Reading: Started chapter 2 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: Read up on Classes and Inheritance concepts for Java and [Moment.js](https://momentjs.com/timezone/) documentation
-- Projects: Continued work on timezone feature in solo project
+- Projects: Continued work on timezone feature in solo project. Enabled Google Time Zone API
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: DNA to RNA Conversion 
