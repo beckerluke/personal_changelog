@@ -46,3 +46,10 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Light Reading: Read up on object-oriented programming concepts and higher-order functions
 - Projects: Working on timezone feature in solo project. Researched [Stack Overflow](https://stackoverflow.com/questions/10834665/how-can-i-handle-time-zones-in-my-webapp) for best way to implement
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Binary Addition
+
+#### Sunday, November 10th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) tenth lesson: 
+- Reading: Started chapter 2 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
+- Light Reading: Read up on Classes and Inheritance concepts for Java and [Moment.js](https://momentjs.com/timezone/) documentation
+- Projects: Continued work on timezone feature in solo project
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: DNA to RNA Conversion 
