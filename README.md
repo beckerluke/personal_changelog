@@ -55,7 +55,8 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: DNA to RNA Conversion
 
 #### Monday, November 11th, 2019
-- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Java Basics Course 
-- Reading: Continued chapter 2 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
+- Completed Java Basics Course of [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java)
+- Started Java Objects Course in [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java)
+- Reading: Finished chapter 2 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: Read up on Java packages and ES6 destructuring
 - Projects: Continued work on timezone feature in solo project. Looking into implementing [material-ui/pickers](https://material-ui-pickers.dev/getting-started/usage)
