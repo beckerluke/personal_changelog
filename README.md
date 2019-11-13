@@ -60,3 +60,9 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Reading: Finished chapter 2 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: Read up on Java packages and ES6 destructuring
 - Projects: Continued work on timezone feature in solo project. Looking into implementing [material-ui/pickers](https://material-ui-pickers.dev/getting-started/usage)
+
+#### Tuesday, November 12th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Creating Classes and Access Level Modifiers lessons
+- Reading: Started chapter 3 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
+- Light Reading: Medium article [Handling Time Zone in Javascript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d) and [Java Access Level Modifiers](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
+- Projects: Continued work on timezone feature in solo project.
