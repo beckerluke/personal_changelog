@@ -74,7 +74,7 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Count the Monkeys! and Calculate BMI
 
 #### Thursday, November 13th, 2019
-- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Constants
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Constants lesson
 - Reading: Finished chapter 4 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: Read up on [Snowflake](https://www.snowflake.com/) Cloud Data Warehouse and Java Static Methods
 - Projects: Tinkered with timezone feature in solo project.
