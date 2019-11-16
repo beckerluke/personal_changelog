@@ -78,3 +78,9 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Reading: Finished chapter 4 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: Read up on [Snowflake](https://www.snowflake.com/) Cloud Data Warehouse and Java Static Methods
 - Projects: Tinkered with timezone feature in solo project.
+
+#### Friday, November 14th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Changing state and Abstraction lessons
+- Reading: Started chapter 5 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
+- Light Reading: Read up on difference between class variables vs instance variables in [Java](https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html) and object-oriented programming encapsulation
+- Projects: Stalled on timezone feature in solo project.
