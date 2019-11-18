@@ -73,20 +73,25 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Light Reading: Read up on Java Getters and Setters and [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Count the Monkeys! and Calculate BMI
 
-#### Thursday, November 13th, 2019
+#### Thursday, November 14th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Constants lesson
 - Reading: Finished chapter 4 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: Read up on [Snowflake](https://www.snowflake.com/) Cloud Data Warehouse and Java Static Methods
 - Projects: Tinkered with timezone feature in solo project.
 
-#### Friday, November 14th, 2019
+#### Friday, November 15th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Changing state and Abstraction lessons
 - Reading: Started chapter 5 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: Read up on difference between class variables vs instance variables in [Java](https://docs.oracle.com/javase/tutorial/java/javaOO/classvars.html) and object-oriented programming encapsulation
 - Projects: Stalled on timezone feature in solo project.
 
-#### Saturday, November 15th, 2019
+#### Saturday, November 16th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Incrementing/Decrementing and Method Overloading lessons
 - Reading: Started chapter 5 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: Read up on Data Structures in Java and Kubernetes 
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Descending Order
+
+#### Sunday, November 17th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Exceptions lesson
+- Reading: Continued chapter 5 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
+- Light Reading: [Codes Dope](https://www.codesdope.com/course/algorithms-analyze-your-algorithm/) Analysis of Algorithm.
