@@ -95,3 +95,7 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Exceptions lesson
 - Reading: Continued chapter 5 in [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) by Charles Petzold
 - Light Reading: [Codes Dope](https://www.codesdope.com/course/algorithms-analyze-your-algorithm/) Analysis of Algorithm.
+
+#### Monday, November 18th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Throwing Exceptions lesson
+- Light Reading: [Codes Dope](https://www.codesdope.com/course/algorithms-analyze-your-algorithm/) Growth of a Function.
