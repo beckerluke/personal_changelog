@@ -99,3 +99,11 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Monday, November 18th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Throwing Exceptions lesson
 - Light Reading: [Codes Dope](https://www.codesdope.com/course/algorithms-analyze-your-algorithm/) Growth of a Function.
+
+#### Tuesday, November 19th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Handling Exceptions lesson
+- Light Reading: [Exceptions](https://docs.oracle.com/javase/tutorial/essential/exceptions/) in Java
+
+#### Wednesday, November 20th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Planning the MVP lesson 
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: 5 without numbers!!
