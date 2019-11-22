@@ -107,3 +107,7 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Wednesday, November 20th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Planning the MVP lesson 
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: 5 without numbers!!
+
+#### Thursday, November 21st, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Getting Started lesson 
+- Light Reading: DevOps and Continuous Integration, Continuous Delivery, Continuous Deployment
