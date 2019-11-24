@@ -111,3 +111,12 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Thursday, November 21st, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Getting Started lesson 
 - Light Reading: DevOps and Continuous Integration, Continuous Delivery, Continuous Deployment
+
+#### Friday, November 22nd, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Storing Guesses lesson
+- Light Reading: DevOps and Continuous Integration, Continuous Delivery, Continuous Deployment
+
+#### Saturday, November 23rd, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Prompting For Guesses lesson
+- Light Reading: Scanner class in Java and JavaScript rest parameters
+- Project: Testing google api for timezone 
