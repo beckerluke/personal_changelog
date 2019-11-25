@@ -119,4 +119,8 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Saturday, November 23rd, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Prompting For Guesses lesson
 - Light Reading: Scanner class in Java and JavaScript rest parameters
-- Project: Testing google api for timezone 
+- Project: Testing google api for timezone
+
+#### Sunday, November 24th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Re-did Prompting For Guesses lesson
+- Light Reading: Looked at the [SportsDataIO API](https://sportsdata.io/) for future projects
