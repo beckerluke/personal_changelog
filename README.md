@@ -124,3 +124,7 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Sunday, November 24th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Re-did Prompting For Guesses lesson
 - Light Reading: Looked at the [SportsDataIO API](https://sportsdata.io/) for future projects
+
+#### Monday, November 25th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Current Progress lesson
+- Light Reading: [Infrastructure as Code](https://www.youtube.com/watch?v=zWw2wuiKd5o)
