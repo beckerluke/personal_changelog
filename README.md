@@ -128,3 +128,8 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Monday, November 25th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Current Progress lesson
 - Light Reading: [Infrastructure as Code](https://www.youtube.com/watch?v=zWw2wuiKd5o)
+
+#### Tuesday, November 26th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Counting Scrabble Tiles lesson
+- Light Reading: [CSS Less](http://lesscss.org/#)
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Do I get a bonus?
