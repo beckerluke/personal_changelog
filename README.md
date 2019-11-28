@@ -133,3 +133,8 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Counting Scrabble Tiles lesson
 - Light Reading: [CSS Less](http://lesscss.org/#)
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Do I get a bonus?
+
+#### Wednesday, November 27th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Remaining Trees lesson
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Square Every Digit
+- Projects: Began creating mock database with db diagram for potential golf app idea
