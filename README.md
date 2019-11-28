@@ -138,3 +138,7 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Remaining Trees lesson
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Square Every Digit
 - Projects: Began creating mock database with db diagram for potential golf app idea
+
+#### Thursday, November 28th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Remaining Characters lesson
+- Light Reading: [Formatting Numeric Print Output in Java](https://docs.oracle.com/javase/tutorial/java/data/numberformat.html)
