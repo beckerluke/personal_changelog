@@ -142,3 +142,7 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Thursday, November 28th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Remaining Characters lesson
 - Light Reading: [Formatting Numeric Print Output in Java](https://docs.oracle.com/javase/tutorial/java/data/numberformat.html)
+
+#### Friday, November 29th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Validating and Normalizing User Input lesson
+- Light Reading: [S.O.L.I.D Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
