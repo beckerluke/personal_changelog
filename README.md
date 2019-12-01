@@ -146,3 +146,6 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Friday, November 29th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Validating and Normalizing User Input lesson
 - Light Reading: [S.O.L.I.D Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+
+#### Saturday, November 30th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Applying a Discount Code, Using Method Overloading, and Determining if the Game is Won lessons
