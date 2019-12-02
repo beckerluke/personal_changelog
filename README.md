@@ -149,3 +149,6 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 
 #### Saturday, November 30th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Applying a Discount Code, Using Method Overloading, and Determining if the Game is Won lessons
+
+#### Sunday, December 1st, 2019
+- Projects: Started Todo list app using [React Native](https://react-native.org/)
