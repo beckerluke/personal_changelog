@@ -152,3 +152,7 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 
 #### Sunday, December 1st, 2019
 - Projects: Started Todo list app using [React Native](https://react-native.org/)
+
+#### Monday, December 2nd, 2019
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Sum of odd numbers
+- Projects: Todo list app using [React Native](https://react-native.org/): Added handlers for change and Add button when clicked for inputbar component
