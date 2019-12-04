@@ -156,3 +156,8 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Monday, December 2nd, 2019
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Sum of odd numbers
 - Projects: Todo list app using [React Native](https://react-native.org/): Added handlers for change and Add button when clicked for inputbar component
+
+#### Tuesday, December 3rd, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Arrays and Command Line Arguments lesson 
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Get the mean of an array
+- Projects: Todo list app using [React Native](https://react-native.org/): Started item component
