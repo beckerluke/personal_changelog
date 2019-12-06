@@ -161,3 +161,11 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Arrays and Command Line Arguments lesson 
 - [Codewars](https://www.codewars.com/dashboard) Logic Problem: Get the mean of an array
 - Projects: Todo list app using [React Native](https://react-native.org/): Started item component
+
+#### Wednesday, December 4th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Java Objects course
+- Projects: Todo list app using [React Native](https://react-native.org/): Trying to fix item component rendering
+
+#### Thursday, December 5th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Meeting Arrays, Declaring Arrays, Accessing Items, Array Literals, and Enhanced For Loop lessons in Java Array course
+- Projects: Todo list app using [React Native](https://react-native.org/): Fixed item component rendering
