@@ -169,3 +169,6 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 #### Thursday, December 5th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Meeting Arrays, Declaring Arrays, Accessing Items, Array Literals, and Enhanced For Loop lessons in Java Array course
 - Projects: Todo list app using [React Native](https://react-native.org/): Fixed item component rendering
+
+#### Friday, December 6th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) For Loops lesson in Java Array course
