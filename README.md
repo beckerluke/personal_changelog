@@ -172,3 +172,13 @@ This is a personal changelog for the 30 day challenge starting November 4, 2019.
 
 #### Friday, December 6th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) For Loops lesson in Java Array course
+
+#### Saturday, December 7th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Multidimensional Arrays lesson in Java Array course
+- Projects: Todo list app using [React Native](https://react-native.org/): 
+Added styling to todo item and created toggle function to check off item in list
+- Light Reading: [justify-content CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/justify-content)
+
+#### Monday, December 9th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Assuming and Removing Items, Copying Arrays, Sorting Arrays lessons in Java Array course
+- Light Reading: List Implementation and Comparator Java documentation
