@@ -182,3 +182,7 @@ Added styling to todo item and created toggle function to check off item in list
 #### Monday, December 9th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Assuming and Removing Items, Copying Arrays, Sorting Arrays lessons in Java Array course
 - Light Reading: List Implementation and Comparator Java documentation
+
+#### Tuesday, December 10th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Array Usage in Method Declaration and Practice Java Arrays lessons in Java Array course. Finished Java Array course.
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Reindeer Games and String ends with? 
