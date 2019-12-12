@@ -185,4 +185,7 @@ Added styling to todo item and created toggle function to check off item in list
 
 #### Tuesday, December 10th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Array Usage in Method Declaration and Practice Java Arrays lessons in Java Array course. Finished Java Array course.
-- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Reindeer Games and String ends with? 
+- [Codewars](https://www.codewars.com/dashboard) Logic Problem: Reindeer Games and String ends with?
+
+#### Wednesday, December 11th, 2019
+- Completed [freeCodeCamp's] Basic CSS course
