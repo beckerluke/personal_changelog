@@ -193,3 +193,8 @@ Added styling to todo item and created toggle function to check off item in list
 #### Thursday, December 12th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Introducing Inheritance and Casting Instances lessons
 - Completed 40% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
+
+#### Monday, December 16th, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Object Methods lesson
+- Completed 47% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
+- Light Reading: [API Backend with Node.js, Express, and MongoDB for React Native Apps](https://rationalappdev.com/api-backend-with-nodejs-express-and-mongodb-for-react-native-apps/)
