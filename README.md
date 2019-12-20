@@ -203,6 +203,9 @@ Added styling to todo item and created toggle function to check off item in list
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Super Override lesson
 - Completed 52% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
 
-#### Friday, December 18th, 2019
+#### Wednesday, December 18th, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Object Override lesson
 - Completed 65% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
+
+#### Thursday, December 19th, 2019
+- Completed 90% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
