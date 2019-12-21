@@ -209,3 +209,6 @@ Added styling to todo item and created toggle function to check off item in list
 
 #### Thursday, December 19th, 2019
 - Completed 90% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
+
+#### Friday, December 20th, 2019
+- Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
