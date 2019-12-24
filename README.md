@@ -212,3 +212,9 @@ Added styling to todo item and created toggle function to check off item in list
 
 #### Friday, December 20th, 2019
 - Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
+
+#### Saturday, December 21st, 2019
+- Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
+
+#### Monday, December 22nd, 2019
+- Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Object Equality, Abstract Equality, Introducing Interfaces, Implementing Interfaces, and The Interface Advantage lessons
