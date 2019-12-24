@@ -216,5 +216,8 @@ Added styling to todo item and created toggle function to check off item in list
 #### Saturday, December 21st, 2019
 - Completed 100% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Visual Design course
 
-#### Monday, December 22nd, 2019
+#### Monday, December 23rd, 2019
 - Completed [TeamTreeHouse's Beginning Java Track](https://teamtreehouse.com/tracks/beginning-java) Object Equality, Abstract Equality, Introducing Interfaces, Implementing Interfaces, and The Interface Advantage lessons
+
+#### Tuesday, December 24th, 2019
+- Began looking searching for React-Native project boilerplates with backend
