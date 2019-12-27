@@ -221,3 +221,7 @@ Added styling to todo item and created toggle function to check off item in list
 
 #### Tuesday, December 24th, 2019
 - Began looking searching for React-Native project boilerplates with backend
+
+#### Friday, December 26th, 2019
+- [Codewars](https://www.codewars.com/dashboard) Logic Problems: Maximum Multiple and Breaking Chocolate
+- Completed 35% of [freeCodeCamp's](https://www.freecodecamp.org/) Applied Accessibility course in Responsive Web Certification
